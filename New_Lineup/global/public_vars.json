@@ -1,0 +1,9 @@
+{
+  "ShowPenaltyPointsInStandings": true,
+  "ShowWinnerInCalendar": true,
+  "ShowEventDescriptionInCalendar": true,
+  "RenderReserveDriver": false,
+  "ShowCountryFlagsForDrivers": false,
+  "SeasonFormForDriverPos": 5,
+  "ReserveDriverMax": 0
+}
