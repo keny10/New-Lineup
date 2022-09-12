@@ -12,10 +12,6 @@ Compatible with RLT 0.7.5
 If you don't have any reserve drivers you must turn off Render reserve driver and put 0 for Reserve Driver Max (By default already turn off witrh 0)
 
 
-************************* IMPORTANT**************************
-
-you need to have a reserver driver in your list even if you don't use them there a bug and waiting for fix so set a aaaaa driver as a reserve
-
 New in 1.3
 Minor fixes 
 
