@@ -3,6 +3,7 @@
   "ShowWinnerInCalendar": true,
   "ShowEventDescriptionInCalendar": true,
   "RenderReserveDriver": false,
+  "RenderSecondCollum": true,
   "ShowCountryFlagsForDrivers": false,
   "SeasonFormForDriverPos": 5,
   "ReserveDriverMax": 0
