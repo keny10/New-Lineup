@@ -97,13 +97,13 @@
                                 "BlockType": "itemstack",
                                 "Orientation": "Vertical",
                                 "ItemStackOptions": {
-                                    "RenderIf": "{RenderReserveDriver}",
+                                    "RenderIf": "{RenderSecondCollum}",
                                     "ItemSource": "{Lineups.LineupsReserves}",
                                     "Limit": "{ReserveDriverMax}",
                                     "IndexStart": "{ReserveDriverMax}",
                                     "Template": {
                                         "BlockType": "component",
-                                        "ComponentName": "LineupDriverReserve"
+                                        "ComponentName": "LineupDriverReserve2"
                                     }
                                 }
                             }
