@@ -5,6 +5,26 @@ Racing League Tools Theme
 
 ![preview](https://user-images.githubusercontent.com/880169/187782247-38a1ec57-f2a6-4493-b441-bf063c94573d.png)
 
+******************************************************************************
+Render reserve driver : Activate it to show your reserve driver
+
+Render second collum : Turn off if you only one reserver driver 
+
+Show country flag : Activate to display country flag image
+
+Reserve driver max : Leave at 0 if you d'ont have reserve driver,
+
+if you have rerve driver you need to set reserve driver max (Number of reserve driver /2 round it up to next even number)
+
+ex you have 5 reserve drivers so Reserve Driver Max will be 3 if you have 2 set to 1 !
+
+![preview](https://github.com/keny10/New-Lineup/blob/main/docs/Setting.PNG?raw=true)
+*******************************************************************************
+
+New Lineup v1.6
+
+Add posibility to hide second collum only useful if you only have one reserve driver
+
 New Lineup v1.5
 
 Compatible with RLT 0.7.5
